@@ -1,6 +1,6 @@
 # --- For-Bot-Working --------- #
 pyrogram
-TgCrypto
+#TgCrypto
 pyromod==1.5
 python-dotenv
 # --- For-Database ------------ #
